@@ -1,0 +1,52 @@
+/*Kevin Woolgar - kevinwoolgar@gmail.com*/
+/*navigation background-color*/
+nav div {
+    background-color: #000000;
+}
+.navbar-custom {
+    background-color: #000000;
+}
+/*navigation bar title 
+Kevin Woolgar hover*/
+#page-top a:hover {
+    color: #18BC9C;
+}
+/*background-color behind line
+and star images/fonts in header*/
+hr.star-light:after {
+    background-color: #292929
+}
+/*header and section background-
+color*/
+header {
+    background-color: #292929;
+}
+section.success {
+    background-color: #292929
+}
+/*video positioning*/
+video {
+    width: 100%;
+    height: auto;
+}
+/*background-color behind line
+and star images/fonts in Message, Skills, Bio*/
+hr.star-primary {
+    background-color: #292929;
+    border-color: #292929;
+    color: #292929;
+}
+hr.star-primary:after {
+    color: #292929;
+}
+/*table positioning*/
+table th {
+    text-align: center;
+}
+/*footer background-color*/
+footer .footer-above {
+    background-color: #292929;
+}
+footer .footer-below {
+    background-color: #000000;
+}
